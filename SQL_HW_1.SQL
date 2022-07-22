@@ -9,3 +9,10 @@ select * from students;
 3. Вывести только Id пользователей.
 
 select id from students;
+
+4. Вывести только имя пользователей.
+
+select name from students;
+
+5. Вывести только email пользователей.
+
