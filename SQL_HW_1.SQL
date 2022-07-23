@@ -16,3 +16,11 @@ select name from students;
 
 5. Вывести только email пользователей.
 
+6. Вывести имя и email пользователей.
+
+select name, email from students;
+
+7. Вывести id, имя, email и дату создания пользователей.
+
+select id, name, email, created_on from students;
+
