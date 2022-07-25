@@ -22,10 +22,11 @@ select name, email from students;
 
 7. Вывести id, имя, email и дату создания пользователей.
 
+select id, name, email, created_on from students;
+
 8. Вывести пользователей где password 12333.
 
 select * from students
 where password = '12333';
 
-select id, name, email, created_on from students;
 
