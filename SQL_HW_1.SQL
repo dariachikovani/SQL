@@ -29,4 +29,8 @@ select id, name, email, created_on from students;
 select * from students
 where password = '12333';
 
+9. Вывести пользователей которые были созданы 2021-03-26 00:00:00.
+
+select * from students 
+where created_on = '2021-03-26 00:00:00';
 
