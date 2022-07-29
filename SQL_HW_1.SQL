@@ -44,3 +44,8 @@ where name like '%Anna%';
 select * from students
 where name like '%8';
 
+12. Вывести пользователей где в имени в есть буква а.
+
+select * from students
+where name like '%a%';
+
