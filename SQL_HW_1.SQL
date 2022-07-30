@@ -49,3 +49,7 @@ where name like '%8';
 select * from students
 where name like '%a%';
 
+13. Вывести пользователей которые были созданы 2021-07-12 00:00:00.
+
+select * from students
+where created_on = '2021-07-12 00:00:00';
