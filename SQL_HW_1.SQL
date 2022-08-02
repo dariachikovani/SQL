@@ -64,4 +64,8 @@ where created_on = '2021-07-12 00:00:00 ' and password = '1m313';
 select * from students
 where created_on = '2021-07-12 00:00:00 ' and name like '%Andrey%';
 
+16. Вывести пользователей которые были созданы 2021-07-12 00:00:00 и у которых в имени есть цифра 8.
+
+select * from students 
+where created_on = '2021-07-12 00:00:00 ' and name like '%8%';
 
