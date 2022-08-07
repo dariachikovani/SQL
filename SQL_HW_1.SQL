@@ -89,3 +89,8 @@ where id > 140;
 select * from students
 where id < 130;
 
+21. Вывести пользователя у которых id меньше 127 или больше 188.
+
+select * from students
+where id < 127 or id > 188;
+
