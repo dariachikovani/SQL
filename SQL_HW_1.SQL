@@ -109,3 +109,8 @@ where id >= 137;
 select * from students
 where id > 180 and id < 190;
 
+25. Вывести пользователя у которых id между 180 и 190.
+
+select * from students
+where id between 180 and 190;
+
