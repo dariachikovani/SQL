@@ -114,3 +114,8 @@ where id > 180 and id < 190;
 select * from students
 where id between 180 and 190;
 
+26. Вывести пользователей где password равен 12333, 1m313, 123313.
+
+select * from students
+where password in ('12333', '1m313', '123313');
+
