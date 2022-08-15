@@ -128,3 +128,7 @@ where created_on in ('2020-10-03 00:00:00', '2021-05-19 00:00:00', '2021-03-26 0
 
 select min(id) from students;
 
+29. Вывести максимальный.
+
+select max(id) from students;
+
