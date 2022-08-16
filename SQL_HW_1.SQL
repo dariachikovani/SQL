@@ -132,3 +132,7 @@ select min(id) from students;
 
 select max(id) from students;
 
+30. Вывести количество пользователей.
+
+select count(id) from students;
+
