@@ -136,3 +136,8 @@ select max(id) from students;
 
 select count(id) from students;
 
+31. Вывести id пользователя, имя, дату создания пользователя. Отсортировать по порядку возрастания даты добавления пользоватлеля.
+
+select id, name, created_on from students
+order by created_on;
+
