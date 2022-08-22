@@ -9,3 +9,5 @@ employee_name Varchar(50) not null
 
 -- 2) Наполнить таблицу employee 70 строками.
 
+insert into employees (employee_name)
+
