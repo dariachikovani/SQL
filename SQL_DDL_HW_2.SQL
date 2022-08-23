@@ -11,5 +11,6 @@ employee_name Varchar(50) not null
 
 insert into employees (employee_name)
      values
-    ('John Clark')
+    ('John Clark'),
+    ('Robert Graham'),
 
