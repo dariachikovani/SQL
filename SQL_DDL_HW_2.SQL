@@ -13,4 +13,4 @@ insert into employees (employee_name)
      values
     ('John Clark'),
     ('Robert Graham'),
-
+    ('Betty Smith'),
