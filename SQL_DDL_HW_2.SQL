@@ -15,3 +15,4 @@ insert into employees (employee_name)
     ('Robert Graham'),
     ('Betty Smith'),
     ('Evelyn Robbins'),
+    ('Edwin Moore'),
