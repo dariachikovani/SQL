@@ -21,3 +21,4 @@ insert into employees (employee_name)
     ('Charlene Becker'),
     ('Dana Burns'),
     ('Brian Morgan'),
+    ('Eleanor West'),
