@@ -27,3 +27,4 @@ insert into employees (employee_name)
     ('Steven Lee'),
     ('Anthony Robbins'),
     ('Mark Woods'),
+    ('Seth Roberts'),
