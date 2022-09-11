@@ -31,3 +31,5 @@ insert into employees (employee_name)
     ('Deborah Bryan'),
     ('Gladys Schwartz'),
     ('Paul Freeman'),
+    ('Jessie Leonard'),
+
