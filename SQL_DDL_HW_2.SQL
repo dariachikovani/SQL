@@ -33,3 +33,7 @@ insert into employees (employee_name)
     ('Paul Freeman'),
     ('Jessie Leonard'),
     ('Peggy Williams'),
+    ('Kenneth Perry'),
+    ('Laura McDonald'),
+    ('Katherine Perry'),
+
