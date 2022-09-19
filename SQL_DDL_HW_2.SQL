@@ -44,4 +44,8 @@ insert into employees (employee_name)
     ('Gloria Young'),
     ('Donald McKenzie'),
     ('David Williams'),
+    ('Kevin Nelson'),
+    ('Tamara Sanders'),
+    ('Carol Guzman'),
+    ('Mary Jones'),
 
