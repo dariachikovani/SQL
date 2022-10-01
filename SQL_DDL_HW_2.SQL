@@ -58,4 +58,5 @@ insert into employees (employee_name)
     ('Danny Adams'),
     ('Lillian Henderson'),
     ('Amanda Lewis'),
-    ('Larry Norris'), 
+    ('Larry Norris'),
+    ('Earl Davis'), 
