@@ -62,4 +62,5 @@ insert into employees (employee_name)
     ('Earl Davis'),
     ('Lynn Hamilton'),
     ('Amy Martinez'),
-    ('William Lowe'), 
+    ('William Lowe'),
+    ('Mildred Brooks'),
