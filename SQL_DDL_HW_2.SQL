@@ -78,3 +78,4 @@ insert into employees (employee_name)
     ('Karen Bradley'),
     ('Betty Fox'),
     ('Thomas West'),
+    ('Violet Stone'),
