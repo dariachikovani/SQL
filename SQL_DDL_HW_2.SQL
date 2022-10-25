@@ -81,3 +81,5 @@ insert into employees (employee_name)
     ('Violet Stone'),
     ('Stephen Johnson'),
     ('Marie Henderson');
+
+    select * from employees;
