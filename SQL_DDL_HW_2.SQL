@@ -85,3 +85,5 @@ insert into employees (employee_name)
     select * from employees;
 
     -- 3) Создать таблицу salary
+    -- id. Serial  primary key,
+
