@@ -86,4 +86,4 @@ insert into employees (employee_name)
 
     -- 3) Создать таблицу salary
     -- id. Serial  primary key,
-
+    -- monthly_salary. Int, not null
