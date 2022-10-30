@@ -89,3 +89,5 @@ insert into employees (employee_name)
     -- monthly_salary. Int, not null
    
     drop table salary cascade;
+
+    select * from salary;
