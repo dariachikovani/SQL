@@ -91,3 +91,5 @@ insert into employees (employee_name)
     drop table salary cascade;
 
     select * from salary;
+
+    create table salary(
