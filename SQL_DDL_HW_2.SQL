@@ -93,3 +93,5 @@ insert into employees (employee_name)
     select * from salary;
 
     create table salary(
+    id serial primary key,
+
