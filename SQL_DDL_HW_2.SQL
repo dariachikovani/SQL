@@ -95,3 +95,4 @@ insert into employees (employee_name)
     create table salary(
     id serial primary key,
     monthly_salary int not null
+    );
