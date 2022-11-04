@@ -96,3 +96,5 @@ insert into employees (employee_name)
     id serial primary key,
     monthly_salary int not null
     );
+
+    -- 4) Наполнить таблицу salary 15 строками:
