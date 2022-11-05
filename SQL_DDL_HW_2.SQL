@@ -100,3 +100,5 @@ insert into employees (employee_name)
     -- 4) Наполнить таблицу salary 15 строками:
 
    insert into salary(monthly_salary)
+       values (1000),
+
