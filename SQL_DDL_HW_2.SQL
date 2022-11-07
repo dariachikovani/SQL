@@ -102,3 +102,4 @@ insert into employees (employee_name)
    insert into salary(monthly_salary)
        values (1000),
               (1100),
+              (1200),
