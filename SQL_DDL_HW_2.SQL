@@ -108,3 +108,4 @@ insert into employees (employee_name)
               (1500),
               (1600),
               (1700),
+              (1800),
