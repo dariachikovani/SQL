@@ -114,3 +114,4 @@ insert into employees (employee_name)
               (2100),
               (2200),
               (2300),
+              (2400);
