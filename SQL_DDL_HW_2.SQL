@@ -115,3 +115,5 @@ insert into employees (employee_name)
               (2200),
               (2300),
               (2400);
+
+    select * from salary; 
