@@ -117,3 +117,5 @@ insert into employees (employee_name)
               (2400);
 
     select * from salary; 
+
+    -- 5) Создать таблицу employee_salary 
