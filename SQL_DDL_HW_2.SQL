@@ -119,4 +119,5 @@ insert into employees (employee_name)
     select * from salary; 
 
     -- 5) Создать таблицу employee_salary
-    --  id. Serial  primary key, 
+    --  id. Serial  primary key,
+    -- employee_id. Int, not null, unique 
