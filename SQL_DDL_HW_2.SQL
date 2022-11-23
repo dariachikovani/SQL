@@ -122,3 +122,5 @@ insert into employees (employee_name)
     --  id. Serial  primary key,
     -- employee_id. Int, not null, unique
     -- salary_id. Int, not null 
+
+   create table employee_salary(
