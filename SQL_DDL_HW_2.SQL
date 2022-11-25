@@ -125,3 +125,4 @@ insert into employees (employee_name)
 
    create table employee_salary(
    id serial primary key,
+   employee_id int not null unique,
