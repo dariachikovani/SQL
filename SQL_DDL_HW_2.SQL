@@ -127,3 +127,4 @@ insert into employees (employee_name)
    id serial primary key,
    employee_id int not null unique,
    salary_id int not null
+   );
