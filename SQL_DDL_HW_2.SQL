@@ -130,3 +130,5 @@ insert into employees (employee_name)
    );
 
    select * from employee_salary;
+
+   select * from employee_id;
