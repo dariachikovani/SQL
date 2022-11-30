@@ -132,3 +132,7 @@ insert into employees (employee_name)
    select * from employee_salary;
 
    select * from employee_id;
+
+   
+-- 6) Наполнить таблицу employee_salary 40 строками:
+
