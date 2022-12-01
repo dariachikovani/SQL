@@ -134,5 +134,6 @@ insert into employees (employee_name)
    select * from employee_id;
 
    
--- 6) Наполнить таблицу employee_salary 40 строками:
+    -- 6) Наполнить таблицу employee_salary 40 строками:
+    -- в 10 строк из 40 вставить несуществующие employee_id
 
