@@ -136,4 +136,6 @@ insert into employees (employee_name)
    
     -- 6) Наполнить таблицу employee_salary 40 строками:
     -- в 10 строк из 40 вставить несуществующие employee_id
+    
+    insert into employee_salary (employee_id, salary_id)
 
