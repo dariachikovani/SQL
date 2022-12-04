@@ -139,3 +139,4 @@ insert into employees (employee_name)
     
     insert into employee_salary (employee_id, salary_id)
         values (3, 5),
+               (7, 10),
