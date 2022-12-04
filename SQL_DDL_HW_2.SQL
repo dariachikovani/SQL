@@ -138,4 +138,4 @@ insert into employees (employee_name)
     -- в 10 строк из 40 вставить несуществующие employee_id
     
     insert into employee_salary (employee_id, salary_id)
-
+        values (3, 5),
