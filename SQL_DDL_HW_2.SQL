@@ -172,3 +172,4 @@ insert into employees (employee_name)
                (78, 5),
                (75, 10),
                (73, 12),
+               (79, 2),
