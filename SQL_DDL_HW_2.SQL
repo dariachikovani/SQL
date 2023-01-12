@@ -178,3 +178,6 @@ insert into employees (employee_name)
                (88, 6),
                (83,13),
                (72, 1);
+
+     
+     select * from employee_salary;   
