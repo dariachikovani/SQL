@@ -180,4 +180,6 @@ insert into employees (employee_name)
                (72, 1);
 
      
-     select * from employee_salary;   
+     select * from employee_salary;
+
+     -- 7)  Создать таблицу roles   
