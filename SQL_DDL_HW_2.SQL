@@ -183,4 +183,5 @@ insert into employees (employee_name)
      select * from employee_salary;
 
      -- 7)  Создать таблицу roles
-     -- id. Serial  primary key,   
+     -- id. Serial  primary key,
+     -- role_name. int, not null, unique   
