@@ -184,4 +184,6 @@ insert into employees (employee_name)
 
      -- 7)  Создать таблицу roles
      -- id. Serial  primary key,
-     -- role_name. int, not null, unique   
+     -- role_name. int, not null, unique
+
+     drop table roles cascade;   
