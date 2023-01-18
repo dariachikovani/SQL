@@ -186,4 +186,7 @@ insert into employees (employee_name)
      -- id. Serial  primary key,
      -- role_name. int, not null, unique
 
-     drop table roles cascade;   
+     drop table roles cascade;
+
+     create table roles (
+        
