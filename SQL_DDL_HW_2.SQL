@@ -189,4 +189,5 @@ insert into employees (employee_name)
      drop table roles cascade;
 
      create table roles (
-     id serial primary key,   
+     id serial primary key,
+     role_name int not null unique   
