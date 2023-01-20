@@ -190,4 +190,5 @@ insert into employees (employee_name)
 
      create table roles (
      id serial primary key,
-     role_name int not null unique   
+     role_name int not null unique
+     );   
