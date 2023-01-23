@@ -193,4 +193,7 @@ insert into employees (employee_name)
      role_name int not null unique
      );
 
-     select * from roles;   
+     select * from roles;
+
+     
+     -- 8) Поменять тип столба role_name с int на varchar(30)   
