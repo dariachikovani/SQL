@@ -199,4 +199,4 @@ insert into employees (employee_name)
      -- 8) Поменять тип столба role_name с int на varchar(30)
    
     alter table roles
-    
+    alter column role_name
