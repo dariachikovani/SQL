@@ -201,3 +201,5 @@ insert into employees (employee_name)
     alter table roles
     alter column role_name
     type varchar(30);
+
+    -- 9) Наполнить таблицу roles 20 строками:
