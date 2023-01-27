@@ -203,3 +203,5 @@ insert into employees (employee_name)
     type varchar(30);
 
     -- 9) Наполнить таблицу roles 20 строками:
+
+    insert into roles(role_name)
