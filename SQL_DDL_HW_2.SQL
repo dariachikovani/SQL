@@ -205,3 +205,4 @@ insert into employees (employee_name)
     -- 9) Наполнить таблицу roles 20 строками:
 
     insert into roles(role_name)
+         values ('Junior Python developer'),
