@@ -207,3 +207,4 @@ insert into employees (employee_name)
     insert into roles(role_name)
          values ('Junior Python developer'),
                 ('Middle Python developer'),
+                ('Senior Python developer'),
