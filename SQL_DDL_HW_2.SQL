@@ -208,3 +208,4 @@ insert into employees (employee_name)
          values ('Junior Python developer'),
                 ('Middle Python developer'),
                 ('Senior Python developer'),
+                ('Junior Java developer'),
