@@ -209,3 +209,4 @@ insert into employees (employee_name)
                 ('Middle Python developer'),
                 ('Senior Python developer'),
                 ('Junior Java developer'),
+                ('Middle Java developer'),
