@@ -214,3 +214,4 @@ insert into employees (employee_name)
                 ('Junior JavaScript developer'),
                 ('Middle JavaScript developer'),
                 ('Senior JavaScript developer'),
+                ('Junior Manual QA engineer'),
