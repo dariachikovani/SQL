@@ -217,3 +217,4 @@ insert into employees (employee_name)
                 ('Junior Manual QA engineer'),
                 ('Middle Manual QA engineer'),
                 ('Senior Manual QA engineer'),
+                ('Project Manager'),
