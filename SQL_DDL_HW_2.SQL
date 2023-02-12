@@ -220,3 +220,4 @@ insert into employees (employee_name)
                 ('Project Manager'),
                 ('Designer'),
                 ('HR'),
+                ('CEO'),
