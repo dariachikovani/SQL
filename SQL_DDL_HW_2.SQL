@@ -221,3 +221,4 @@ insert into employees (employee_name)
                 ('Designer'),
                 ('HR'),
                 ('CEO'),
+                ('Sales manager'),
