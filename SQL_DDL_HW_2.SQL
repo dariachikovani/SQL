@@ -223,3 +223,4 @@ insert into employees (employee_name)
                 ('CEO'),
                 ('Sales manager'),
                 ('Junior Automation QA engineer'),
+                ('Middle Automation QA engineer'),
