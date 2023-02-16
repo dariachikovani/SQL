@@ -225,3 +225,5 @@ insert into employees (employee_name)
                 ('Junior Automation QA engineer'),
                 ('Middle Automation QA engineer'),
                 ('Senior Automation QA engineer');
+
+    -- 10) Создать таблицу roles_employee  
