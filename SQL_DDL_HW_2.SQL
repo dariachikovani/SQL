@@ -226,4 +226,5 @@ insert into employees (employee_name)
                 ('Middle Automation QA engineer'),
                 ('Senior Automation QA engineer');
 
-    -- 10) Создать таблицу roles_employee  
+    -- 10) Создать таблицу roles_employee
+    -- id. Serial  primary key,   
