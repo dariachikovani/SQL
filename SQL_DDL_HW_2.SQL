@@ -229,4 +229,6 @@ insert into employees (employee_name)
     -- 10) Создать таблицу roles_employee
     -- id. Serial  primary key,
     -- employee_id. Int, not null, unique (внешний ключ для таблицы employees, поле id)
-    -- role_id. Int, not null (внешний ключ для таблицы roles, поле id)       
+    -- role_id. Int, not null (внешний ключ для таблицы roles, поле id) 
+    
+    create table roles_employee(      
