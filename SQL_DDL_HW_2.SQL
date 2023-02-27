@@ -232,4 +232,5 @@ insert into employees (employee_name)
     -- role_id. Int, not null (внешний ключ для таблицы roles, поле id) 
     
     create table roles_employee(
-    id serial primary key     
+    id serial primary key,
+    employee_id int not null unique,     
