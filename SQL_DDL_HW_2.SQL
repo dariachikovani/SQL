@@ -236,4 +236,5 @@ insert into employees (employee_name)
     employee_id int not null unique,
     role_id int not null,
     foreign key (employee_id)
-            references employees(id),     
+            references employees(id),
+    foreign key (role_id)     
