@@ -238,4 +238,5 @@ insert into employees (employee_name)
     foreign key (employee_id)
             references employees(id),
     foreign key (role_id)
-            references roles(id)     
+            references roles(id)
+    );               
