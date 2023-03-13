@@ -239,4 +239,6 @@ insert into employees (employee_name)
             references employees(id),
     foreign key (role_id)
             references roles(id)
-    );               
+    );
+
+    select * from roles_employee;               
