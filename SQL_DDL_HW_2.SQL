@@ -241,4 +241,6 @@ insert into employees (employee_name)
             references roles(id)
     );
 
-    select * from roles_employee;               
+    select * from roles_employee; 
+
+    -- 11) Наполнить таблицу roles_employee 40 строками:              
