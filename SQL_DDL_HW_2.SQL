@@ -243,4 +243,6 @@ insert into employees (employee_name)
 
     select * from roles_employee; 
 
-    -- 11) Наполнить таблицу roles_employee 40 строками:              
+    -- 11) Наполнить таблицу roles_employee 40 строками:
+
+   insert into roles_employee(employee_id, role_id)              
