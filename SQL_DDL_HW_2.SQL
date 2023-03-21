@@ -247,4 +247,5 @@ insert into employees (employee_name)
 
    insert into roles_employee(employee_id, role_id)
        values (7, 14),
-              (32, 18),               
+              (32, 18),
+              (10, 11),               
