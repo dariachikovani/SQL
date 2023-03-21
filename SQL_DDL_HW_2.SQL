@@ -246,4 +246,5 @@ insert into employees (employee_name)
     -- 11) Наполнить таблицу roles_employee 40 строками:
 
    insert into roles_employee(employee_id, role_id)
-       values (7, 14),               
+       values (7, 14),
+              (32, 18),               
